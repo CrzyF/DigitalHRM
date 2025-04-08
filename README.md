@@ -36,7 +36,7 @@ Authentication: (e.g., NextAuth, Firebase Auth — if applicable)
 
 
 📦 Getting Started
-git clone https://github.com/yourusername/digitalhrm.git
+git clone https://github.com/CrzyF/DigitalHRM
 cd digitalhrm
 npm install
 npm run dev
