@@ -1,38 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+🌐 DigitalHRM – Company Assistant Built with Next.js
+DigitalHRM is a modern, all-in-one company assistant web application built with Next.js, designed to streamline internal operations and improve HR efficiency. With an intuitive dashboard and a robust set of features, DigitalHRM empowers companies to manage appointments, staff schedules, and financial processes seamlessly.
+🚀 Key Features
+Interactive Dashboard – Get a real-time overview of company operations.
 
-## Getting Started
 
-First, run the development server:
+Payment Voucher Generator – Create and manage payment vouchers quickly and accurately.
 
-```bash
+
+Appointment Management – Book and reschedule appointments with ease.
+
+
+Staff Appointment Calendar – Visualize and manage staff schedules effortlessly.
+
+
+Secure & Scalable – Built on Next.js for performance, SEO, and scalability.
+
+
+🛠️ Tech Stack
+Frontend: Next.js, React
+
+
+State Management: Redux, Context API
+
+
+Styling: Tailwind CSS
+
+
+Backend/API: Node.js, Next.js API Routes, Mongoose
+
+
+Database: MongoDB
+
+
+Authentication: (e.g., NextAuth, Firebase Auth — if applicable)
+
+
+📦 Getting Started
+git clone https://github.com/yourusername/digitalhrm.git
+cd digitalhrm
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
