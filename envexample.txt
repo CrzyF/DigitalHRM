@@ -1,0 +1,9 @@
+NEXT_PUBLIC_SOFTMASTERSWEB=https://softmastersgroup.com
+NEXT_PUBLIC_HTTPLINK=http://localhost:3000
+PORT=4000
+COMPEMAIL =softmasters616@gmail.com
+COMPPASS =pcrnvvuaembusjkk
+DBNAME=mongodb+srv://harold:OCZ0DYeFO06EROaW@cluster0.hbv9wkx.mongodb.net/?retryWrites=true&w=majority
+USER=http://localhost:3000/api/controllers/register/employeeslist
+API_KEY=2pJazWL5W8HjLTGTVfRbegoJV
+SENDER=SMASTERS

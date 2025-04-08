@@ -1,0 +1,44 @@
+{
+  "name": "officemanagementsystem",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-regular-svg-icons": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mui/material": "^5.14.5",
+    "axios": "^1.4.0",
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "data-uri-to-blob": "^0.0.4",
+    "date-fns": "^2.30.0",
+    "jsonwebtoken": "^9.0.0",
+    "moment": "^2.29.4",
+    "mongoose": "^7.1.0",
+    "multer": "^1.4.5-lts.1",
+    "next": "13.4.0",
+    "nodemailer": "^6.9.4",
+    "qrcode.react": "^3.1.0",
+    "react": "18.2.0",
+    "react-big-calendar": "^1.6.9",
+    "react-country-region-selector": "^3.6.1",
+    "react-datepicker": "^4.15.0",
+    "react-dom": "18.2.0",
+    "reactjs-popup": "^2.0.5",
+    "sweetalert2": "^11.7.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2"
+  }
+}
